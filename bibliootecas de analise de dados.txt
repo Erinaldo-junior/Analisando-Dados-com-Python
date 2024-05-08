@@ -1,0 +1,1 @@
+a biblioteca usada para fazer analise de dados são: (pandas e plotly openpyxl numpy nbformat ipykernel)
